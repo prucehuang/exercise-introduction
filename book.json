@@ -19,8 +19,7 @@
         "tbfed-pagefooter",
         "github",
         "donate",
-        "multipart",
-        "mathjax"
+        "multipart"
     ],
     "pluginsConfig": {
         "theme-default": {
