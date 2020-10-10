@@ -17,6 +17,9 @@
 * [腹肌](muscle/abdominal.md)
 * [小腿](muscle/calf.md)
 
+## 训练计划
+* [增肌++](plan/fitness_plan_2.md)
+
 ## 饮食
 * [每日食谱](diet/README.md)
 
